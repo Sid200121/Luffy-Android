@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Luffy</string>
+    <string name="widget_desc">Luffy on your home screen. Tap to chat, or mute him.</string>
+</resources>
